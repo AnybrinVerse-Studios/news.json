@@ -1,2 +1,12 @@
-# mygame-news
-
+{
+  "noticias": [
+    {
+      "titulo": "¡Nueva actualización disponible MY XD XD XD XD PRO!",
+      "mensaje": "Descubre las mejoras en jugabilidad y rendimiento."
+    },
+    {
+      "titulo": "Evento de Halloween",
+      "mensaje": "Juega y consigue recompensas únicas en este evento especial."
+    }
+  ]
+}
