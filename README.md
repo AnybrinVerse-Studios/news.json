@@ -1,7 +1,7 @@
 {
   "noticias": [
     {
-      "titulo": "¡Nueva actualización disponible MY XD XD XD XD PRO!",
+      "titulo": "MENSAJE DE PRUEBA ¡Nueva actualización disponible!",
       "mensaje": "Descubre las mejoras en jugabilidad y rendimiento."
     },
     {
