@@ -1,12 +1,1 @@
-{
-  "noticias": [
-    {
-      "titulo": "MENSAJE DE PRUEBA ¡Nueva actualización disponible!",
-      "mensaje": "Descubre las mejoras en jugabilidad y rendimiento."
-    },
-    {
-      "titulo": "Evento de Halloween",
-      "mensaje": "Juega y consigue recompensas únicas en este evento especial."
-    }
-  ]
-}
+
